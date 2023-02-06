@@ -1,4 +1,4 @@
-# ArtSeeKati
+
 <h1 align= "center"> ArtSeeKati </h1>
 
 אתר [artseekati](http://artseekati.com/) אינו אתר מכירות ציורים של אמנית יקטרינה איוונוב.
